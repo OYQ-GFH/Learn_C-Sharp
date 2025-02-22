@@ -1,3 +1,5 @@
+[[1.输出.png]]
+
 ```c#
 using System;  
   
