@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d4319490a85eae5",
+            "id": "03a7a269ba41e8f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,11 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d4319490a85eae5",
+  "active": "03a7a269ba41e8f7",
   "lastOpenFiles": [
+    "从入门到入土/基础.md",
     "一、基础/3. 变量的本质.md",
-    "一、基础/2. 变量.md",
+    "从入门到入土",
     "一、基础/4. 变量的命名规则.md",
+    "一、基础/2. 变量.md",
     "一、基础/1. 入门.md",
     "一、基础/scripts/Lesson2.cs.md",
     "一、基础/scripts/Lesson1.cs.md",
@@ -194,7 +196,6 @@
     "一、基础/练习题/2.2 练习题.md",
     "Excalidraw/Drawing 2025-02-22 07.55.39.excalidraw.md",
     "Excalidraw/Drawing 2025-02-22 07.55.44.excalidraw.md",
-    "Excalidraw",
     "一、基础/imgs/3.练习题.png",
     "一、基础/练习题/1.1 练习题.md",
     "一、基础/练习题",
