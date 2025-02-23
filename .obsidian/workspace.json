@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一、基础/7. 隐式转换.md",
+                "file": "一、基础/8. 显示转换.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. 隐式转换"
+              "title": "8. 显示转换"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,20 +183,22 @@
   },
   "active": "e8ba1892efcb1bea",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-02-24 06.09.07.excalidraw.md",
     "一、基础/7. 隐式转换.md",
+    "一、基础/6. 转义字符.md",
+    "一、基础/5. 常量.md",
+    "一、基础/4. 变量的命名规则.md",
+    "一、基础/3. 变量的本质.md",
+    "一、基础/2. 变量.md",
+    "一、基础/1. 入门.md",
+    "一、基础/8. 显示转换.md",
+    "一、基础/练习题/7. 练习题.md",
+    "一、基础/练习题/6. 练习题.md",
+    "一、基础/练习题/2 练习题.md",
+    "一、基础/练习题/4. 练习题.md",
+    "Excalidraw/Drawing 2025-02-24 06.09.07.excalidraw.md",
     "Excalidraw",
     "一、基础/scripts/Lesson1.cs.md",
-    "一、基础/1. 入门.md",
-    "一、基础/2. 变量.md",
-    "一、基础/3. 变量的本质.md",
-    "一、基础/4. 变量的命名规则.md",
-    "一、基础/5. 常量.md",
-    "一、基础/6. 转义字符.md",
-    "一、基础/练习题/6. 练习题.md",
     "一、基础/imgs/6.练习题.png",
-    "一、基础/练习题/4. 练习题.md",
-    "一、基础/练习题/2 练习题.md",
     "一、基础/练习题/1. 练习题.md",
     "一、基础/imgs/5.练习题.jpg",
     "一、基础/imgs/4.练习题.png",
